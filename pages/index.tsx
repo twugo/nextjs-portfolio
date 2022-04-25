@@ -61,8 +61,8 @@ const Top: NextPage = () => {
           Togo Takuya
         </Typography>
         <Typography variant="body1">
-          Hello! I'm a master's student majoring in Computer Science and Information Engineering.
-          You can contact me on <MuiLink href="https://twitter.com/twu_go">Twitter</MuiLink>.
+          {'Hello! I\'m a master\'s student majoring in Computer Science and Information Engineering. You can contact me on '}
+          <MuiLink href="https://twitter.com/twu_go">Twitter</MuiLink>.
         </Typography>
 
 
